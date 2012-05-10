@@ -1,2 +1,2 @@
-isz_ololo
+idz_ololo
 =========
